@@ -1,11 +1,12 @@
-# Investment-analysis 
+# **Investment-Analysis** 
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Recommendations](#recommendations)
 
-### Project Overview 
+### Project Overview
+---
 
 The project speaks the analysis of investment sales figures for the year
 
@@ -69,3 +70,16 @@ Based on the analysis, we recommend the following actions;
 1. SQL for businesses by Olushola
 2. [StackOverflow]
 
+😃
+
+☎️
+
+|Heading 1|Heading 2|
+|---------|---------|
+|Content|Content2|
+|Python|Sql|
+|Olushola|Shina|
+
+`column_1`
+**BOLD**
+*ITALIC*
