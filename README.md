@@ -8,6 +8,7 @@
 ### Project Overview 
 
 The project speaks the analysis of investment sales figures for the year
+<img width="976" height="547" alt="Screenshot 2025-11-21 at 17 53 17" src="https://github.com/user-attachments/assets/68ddc753-84dd-44c0-86c6-92a4598e5ab6" />
 
 ### Data Sources
 
