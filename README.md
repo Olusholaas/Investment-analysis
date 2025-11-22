@@ -81,5 +81,7 @@ Based on the analysis, we recommend the following actions;
 |Olushola|Shina|
 
 `column_1`
+
 **BOLD**
+
 *ITALIC*
